@@ -1,0 +1,442 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" frameRate="30" width="390" height="390" xflVersion="2.971">
+	<folders>
+		<DOMFolderItem name="media" isExpanded="false"/>
+		<DOMFolderItem name="source" isExpanded="false"/>
+		<DOMFolderItem name="image" isExpanded="false"/>
+		<DOMFolderItem name="sprite" isExpanded="false"/>
+	</folders>
+	<media>
+		<DOMBitmapItem name="media/sunshroom_66x69" href="media/sunshroom_66x69.png"/>
+		<DOMBitmapItem name="media/sunshroom_14x25" href="media/sunshroom_14x25.png"/>
+		<DOMBitmapItem name="media/sunshroom_8x11" href="media/sunshroom_8x11.png"/>
+		<DOMBitmapItem name="media/sunshroom_20x12" href="media/sunshroom_20x12.png"/>
+		<DOMBitmapItem name="media/sunshroom_67x70" href="media/sunshroom_67x70.png"/>
+		<DOMBitmapItem name="media/sunshroom_34x60" href="media/sunshroom_34x60.png"/>
+		<DOMBitmapItem name="media/sunshroom_54x58" href="media/sunshroom_54x58.png"/>
+		<DOMBitmapItem name="media/sunshroom_114x77" href="media/sunshroom_114x77.png"/>
+		<DOMBitmapItem name="media/sunshroom_38x35" href="media/sunshroom_38x35.png"/>
+		<DOMBitmapItem name="media/sunshroom_16x18" href="media/sunshroom_16x18.png"/>
+		<DOMBitmapItem name="media/sunshroom_38x37" href="media/sunshroom_38x37.png"/>
+		<DOMBitmapItem name="media/sunshroom_27x20" href="media/sunshroom_27x20.png"/>
+		<DOMBitmapItem name="media/sunshroom_15x15" href="media/sunshroom_15x15.png"/>
+		<DOMBitmapItem name="media/sunshroom_20x22" href="media/sunshroom_20x22.png"/>
+		<DOMBitmapItem name="media/sunshroom_23x37" href="media/sunshroom_23x37.png"/>
+		<DOMBitmapItem name="media/sunshroom_44x37" href="media/sunshroom_44x37.png"/>
+		<DOMBitmapItem name="media/sunshroom_115x79" href="media/sunshroom_115x79.png"/>
+		<DOMBitmapItem name="media/sunshroom_18x13" href="media/sunshroom_18x13.png"/>
+		<DOMBitmapItem name="media/sunshroom_169x125" href="media/sunshroom_169x125.png"/>
+		<DOMBitmapItem name="media/sunshroom_14x21" href="media/sunshroom_14x21.png"/>
+		<DOMBitmapItem name="media/sunshroom_24x20" href="media/sunshroom_24x20.png"/>
+		<DOMBitmapItem name="media/sunshroom_14x16" href="media/sunshroom_14x16.png"/>
+	</media>
+	<symbols>
+		<Include href="source/source_1.xml"/>
+		<Include href="source/source_2.xml"/>
+		<Include href="source/source_3.xml"/>
+		<Include href="source/source_4.xml"/>
+		<Include href="source/source_5.xml"/>
+		<Include href="source/source_6.xml"/>
+		<Include href="source/source_7.xml"/>
+		<Include href="source/source_8.xml"/>
+		<Include href="source/source_9.xml"/>
+		<Include href="source/source_10.xml"/>
+		<Include href="source/source_11.xml"/>
+		<Include href="source/source_12.xml"/>
+		<Include href="source/source_13.xml"/>
+		<Include href="source/source_14.xml"/>
+		<Include href="source/source_15.xml"/>
+		<Include href="source/source_16.xml"/>
+		<Include href="source/source_17.xml"/>
+		<Include href="source/source_18.xml"/>
+		<Include href="source/source_19.xml"/>
+		<Include href="source/source_20.xml"/>
+		<Include href="source/source_21.xml"/>
+		<Include href="source/source_22.xml"/>
+		<Include href="image/image_1.xml"/>
+		<Include href="image/image_2.xml"/>
+		<Include href="image/image_3.xml"/>
+		<Include href="image/image_4.xml"/>
+		<Include href="image/image_5.xml"/>
+		<Include href="image/image_6.xml"/>
+		<Include href="image/image_7.xml"/>
+		<Include href="image/image_8.xml"/>
+		<Include href="image/image_9.xml"/>
+		<Include href="image/image_10.xml"/>
+		<Include href="image/image_11.xml"/>
+		<Include href="image/image_12.xml"/>
+		<Include href="image/image_13.xml"/>
+		<Include href="image/image_14.xml"/>
+		<Include href="image/image_15.xml"/>
+		<Include href="image/image_16.xml"/>
+		<Include href="image/image_17.xml"/>
+		<Include href="image/image_18.xml"/>
+		<Include href="image/image_19.xml"/>
+		<Include href="image/image_20.xml"/>
+		<Include href="image/image_21.xml"/>
+		<Include href="image/image_22.xml"/>
+		<Include href="sprite/sprite_1.xml"/>
+		<Include href="sprite/sprite_2.xml"/>
+		<Include href="sprite/sprite_3.xml"/>
+		<Include href="sprite/sprite_4.xml"/>
+		<Include href="sprite/sprite_5.xml"/>
+		<Include href="sprite/sprite_6.xml"/>
+		<Include href="sprite/sprite_7.xml"/>
+		<Include href="sprite/sprite_8.xml"/>
+		<Include href="sprite/sprite_9.xml"/>
+		<Include href="sprite/sprite_10.xml"/>
+		<Include href="sprite/sprite_11.xml"/>
+		<Include href="sprite/sprite_12.xml"/>
+		<Include href="sprite/sprite_13.xml"/>
+		<Include href="sprite/sprite_14.xml"/>
+		<Include href="sprite/sprite_15.xml"/>
+		<Include href="sprite/sprite_16.xml"/>
+		<Include href="sprite/sprite_17.xml"/>
+		<Include href="sprite/sprite_18.xml"/>
+		<Include href="sprite/sprite_19.xml"/>
+		<Include href="sprite/sprite_20.xml"/>
+		<Include href="sprite/sprite_21.xml"/>
+		<Include href="sprite/sprite_22.xml"/>
+		<Include href="main_sprite.xml"/>
+	</symbols>
+	<timelines>
+		<DOMTimeline name="animation">
+			<layers>
+				<DOMLayer name="flow">
+					<frames>
+						<DOMFrame index="0" name="idle_stage1" labelType="name">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="1" duration="18">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="19">
+							<Actionscript>
+								<script><![CDATA[stop();]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="20" name="idle2_stage1" labelType="name">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="21" duration="18">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="39">
+							<Actionscript>
+								<script><![CDATA[stop();]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="40" name="special_stage1" labelType="name">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="41" duration="53">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="94">
+							<Actionscript>
+								<script><![CDATA[stop();]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="95" name="plantfood_stage1" labelType="name">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="96" duration="64">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="160">
+							<Actionscript>
+								<script><![CDATA[stop();]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="161" name="growth_stage1" labelType="name">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="162" duration="38">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="200">
+							<Actionscript>
+								<script><![CDATA[stop();]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="201" name="idle_stage2" labelType="name">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="202" duration="38">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="240">
+							<Actionscript>
+								<script><![CDATA[stop();]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="241" name="idle2_stage2" labelType="name">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="242" duration="38">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="280">
+							<Actionscript>
+								<script><![CDATA[stop();]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="281" name="special_stage2" labelType="name">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="282" duration="53">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="335">
+							<Actionscript>
+								<script><![CDATA[stop();]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="336" name="plantfood_stage2" labelType="name">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="337" duration="64">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="401">
+							<Actionscript>
+								<script><![CDATA[stop();]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="402" name="growth_stage2" labelType="name">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="403" duration="38">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="441">
+							<Actionscript>
+								<script><![CDATA[stop();]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="442" name="idle_stage3" labelType="name">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="443" duration="49">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="492">
+							<Actionscript>
+								<script><![CDATA[stop();]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="493" name="idle2_stage3" labelType="name">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="494" duration="49">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="543">
+							<Actionscript>
+								<script><![CDATA[stop();]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="544" name="special_stage3" labelType="name">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="545" duration="56">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="601">
+							<Actionscript>
+								<script><![CDATA[stop();]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="602" name="plantfood_stage3" labelType="name">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="603" duration="74">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="677">
+							<Actionscript>
+								<script><![CDATA[stop();]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="678" name="water" labelType="name">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="679" duration="86">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="765">
+							<Actionscript>
+								<script><![CDATA[stop();]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+					</frames>
+				</DOMLayer>
+				<DOMLayer name="command">
+					<frames>
+						<DOMFrame index="0" duration="41">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="41">
+							<Actionscript>
+								<script><![CDATA[fscommand("PlaySample", "Play_Plant_DarkAges_SunShroom_Attack_01");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="42" duration="22">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="64">
+							<Actionscript>
+								<script><![CDATA[fscommand("use_action", "");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="65" duration="31">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="96">
+							<Actionscript>
+								<script><![CDATA[fscommand("PlaySample", "Play_Plant_DarkAges_SunShroom_PF_Attack_01");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="97" duration="23">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="120">
+							<Actionscript>
+								<script><![CDATA[fscommand("use_action", "");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="121" duration="41">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="162">
+							<Actionscript>
+								<script><![CDATA[fscommand("PlaySample", "Play_Plant_DarkAges_SunShroom_Growth_01");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="163" duration="119">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="282">
+							<Actionscript>
+								<script><![CDATA[fscommand("PlaySample", "Play_Plant_DarkAges_SunShroom_Attack_02");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="283" duration="25">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="308">
+							<Actionscript>
+								<script><![CDATA[fscommand("use_action", "");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="309" duration="28">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="337">
+							<Actionscript>
+								<script><![CDATA[fscommand("PlaySample", "Play_Plant_DarkAges_SunShroom_PF_Attack_02");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="338" duration="21">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="359">
+							<Actionscript>
+								<script><![CDATA[fscommand("use_action", "");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="360" duration="43">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="403">
+							<Actionscript>
+								<script><![CDATA[fscommand("PlaySample", "Play_Plant_DarkAges_SunShroom_Growth_02");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="404" duration="141">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="545">
+							<Actionscript>
+								<script><![CDATA[fscommand("PlaySample", "Play_Plant_DarkAges_SunShroom_Attack_03");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="546" duration="13">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="559">
+							<Actionscript>
+								<script><![CDATA[fscommand("use_action", "");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="560" duration="43">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="603">
+							<Actionscript>
+								<script><![CDATA[fscommand("PlaySample", "Play_Plant_DarkAges_SunShroom_PF_Attack_03");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="604" duration="21">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="625">
+							<Actionscript>
+								<script><![CDATA[fscommand("use_action", "");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="626" duration="53">
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="679">
+							<Actionscript>
+								<script><![CDATA[fscommand("PlaySample", "Play_Plant_DarkAges_SunShroom_Water");]]></script>
+							</Actionscript>
+							<elements/>
+						</DOMFrame>
+						<DOMFrame index="680" duration="86">
+							<elements/>
+						</DOMFrame>
+					</frames>
+				</DOMLayer>
+				<DOMLayer name="sprite">
+					<frames>
+						<DOMFrame index="0" duration="766">
+							<elements>
+								<DOMSymbolInstance libraryItemName="main_sprite" symbolType="graphic" loop="loop"/>
+							</elements>
+						</DOMFrame>
+					</frames>
+				</DOMLayer>
+			</layers>
+		</DOMTimeline>
+	</timelines>
+</DOMDocument>

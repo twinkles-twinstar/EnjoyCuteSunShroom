@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="image/image_20" symbolType="graphic">
+	<timeline>
+		<DOMTimeline name="image_20">
+			<layers>
+				<DOMLayer>
+					<frames>
+						<DOMFrame index="0">
+							<elements>
+								<DOMSymbolInstance libraryItemName="source/source_20" symbolType="graphic" loop="loop">
+									<matrix>
+										<Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="0.050000" ty="-8.450000"/>
+									</matrix>
+								</DOMSymbolInstance>
+							</elements>
+						</DOMFrame>
+					</frames>
+				</DOMLayer>
+			</layers>
+		</DOMTimeline>
+	</timeline>
+</DOMSymbolItem>

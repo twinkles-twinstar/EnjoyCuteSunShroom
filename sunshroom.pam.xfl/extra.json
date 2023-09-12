@@ -1,0 +1,233 @@
+{
+	"position": [
+		0.0,
+		0.0,
+	],
+	"image": [
+		{
+			"name": "sunshroom_66x69|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_66X69",
+			"size": [
+				66,
+				69,
+			],
+		},
+		{
+			"name": "sunshroom_14x25|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_14X25",
+			"size": [
+				14,
+				25,
+			],
+		},
+		{
+			"name": "sunshroom_8x11|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_8X11",
+			"size": [
+				8,
+				11,
+			],
+		},
+		{
+			"name": "sunshroom_20x12|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_20X12",
+			"size": [
+				20,
+				12,
+			],
+		},
+		{
+			"name": "sunshroom_67x70|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_67X70",
+			"size": [
+				67,
+				70,
+			],
+		},
+		{
+			"name": "sunshroom_34x60|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_34X60",
+			"size": [
+				34,
+				60,
+			],
+		},
+		{
+			"name": "sunshroom_54x58|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_54X58",
+			"size": [
+				54,
+				58,
+			],
+		},
+		{
+			"name": "sunshroom_114x77|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_114X77",
+			"size": [
+				114,
+				77,
+			],
+		},
+		{
+			"name": "sunshroom_38x35|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_38X35",
+			"size": [
+				38,
+				35,
+			],
+		},
+		{
+			"name": "sunshroom_16x18|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_16X18",
+			"size": [
+				16,
+				18,
+			],
+		},
+		{
+			"name": "sunshroom_38x37|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_38X37",
+			"size": [
+				38,
+				37,
+			],
+		},
+		{
+			"name": "sunshroom_27x20|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_27X20",
+			"size": [
+				27,
+				20,
+			],
+		},
+		{
+			"name": "sunshroom_15x15|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_15X15",
+			"size": [
+				15,
+				15,
+			],
+		},
+		{
+			"name": "sunshroom_20x22|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_20X22",
+			"size": [
+				20,
+				22,
+			],
+		},
+		{
+			"name": "sunshroom_23x37|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_23X37",
+			"size": [
+				23,
+				37,
+			],
+		},
+		{
+			"name": "sunshroom_44x37|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_44X37",
+			"size": [
+				44,
+				37,
+			],
+		},
+		{
+			"name": "sunshroom_115x79|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_115X79",
+			"size": [
+				115,
+				79,
+			],
+		},
+		{
+			"name": "sunshroom_18x13|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_18X13",
+			"size": [
+				18,
+				13,
+			],
+		},
+		{
+			"name": "sunshroom_169x125|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_169X125",
+			"size": [
+				169,
+				125,
+			],
+		},
+		{
+			"name": "sunshroom_14x21|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_14X21",
+			"size": [
+				14,
+				21,
+			],
+		},
+		{
+			"name": "sunshroom_24x20|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_24X20",
+			"size": [
+				24,
+				20,
+			],
+		},
+		{
+			"name": "sunshroom_14x16|IMAGE_PLANT_SUNSHROOM_SUNSHROOM_14X16",
+			"size": [
+				14,
+				16,
+			],
+		},
+	],
+	"sprite": [
+		{
+			"name": "Sunshroom_Body_Base",
+		},
+		{
+			"name": "sunshroom_eye_highlight",
+		},
+		{
+			"name": "sunshroom_eye",
+		},
+		{
+			"name": "Sunshroom_Mouth",
+		},
+		{
+			"name": "highlight",
+		},
+		{
+			"name": "custom_01",
+		},
+		{
+			"name": "_custom",
+		},
+		{
+			"name": "Sunshroom_Cap_Base",
+		},
+		{
+			"name": "Sunshroom_Cap_Spot1",
+		},
+		{
+			"name": "Sunshroom_Cap_Spot2",
+		},
+		{
+			"name": "Sunshroom_Cap_Spot3",
+		},
+		{
+			"name": "Sunshroom_Cap_Spot4",
+		},
+		{
+			"name": "Sunshroom_Cap_Spot5",
+		},
+		{
+			"name": "Sunshroom_Cap_Spot6",
+		},
+		{
+			"name": "Sunshroom_Cap_Spot7",
+		},
+		{
+			"name": "Sunshroom_Cap_Highlight",
+		},
+		{
+			"name": "Sunshroom_Cap_Rim",
+		},
+		{
+			"name": "sunshroom_eye_Closed",
+		},
+		{
+			"name": "Sunshroom_Cap_Base_Yellow",
+		},
+		{
+			"name": "Sunshroom_Mouth_Breathe_In",
+		},
+		{
+			"name": "Sunshroom_Mouth_hold",
+		},
+		{
+			"name": "Sunshroom_Mouth_Open",
+		},
+	],
+	"main_sprite": {
+		"name": "",
+	},
+}
